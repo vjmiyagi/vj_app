@@ -1,3 +1,13 @@
+# Custom
+# Ignore all folders brought in from previous attempts
+diet
+dreamhost
+pantry
+Recipes
+swami
+vjm
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
